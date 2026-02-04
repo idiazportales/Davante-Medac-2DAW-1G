@@ -2,7 +2,7 @@
 import { sumar, restar, multiplicar, dividir } from "./operaciones.js";
 
 // Obtener elementos del HTML
-const input1 = document.getElementById("num1");
+const input4 = document.getElementById("num1");
 const input2 = document.getElementById("num2");
 const resultado = document.getElementById("resultado");
 
